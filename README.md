@@ -9,11 +9,7 @@ QuickDo is a polished task management app, designed to help users efficiently ma
 1️⃣ Run the app
 
 🖼️ Screenshots
-![home](https://github.com/user-attachments/assets/3d0f53b3-23e2-4be4-9fd4-77e75c8b84ab)
-![task](https://github.com/user-attachments/assets/a8118e47-2032-40af-9b59-b4db7f184972)
-![empty](https://github.com/user-attachments/assets/7002eaef-86ad-41ee-b949-8144b1535b93)
-![update](https://github.com/user-attachments/assets/125fa719-a9bf-41c3-a4d7-f1fa120201c5)
-![complete](https://github.com/user-attachments/assets/390f99f0-6970-46f5-8393-d58e8b2d876d)
+
 
 
 🛠️ Tech Stack
