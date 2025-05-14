@@ -5,9 +5,6 @@ QuickDo is a polished task management app, designed to help users efficiently ma
 📌 Features
 ✔️ Task Management – Add, edit, and delete tasks effortlessly. ✔️ Hive Database Integration – Ensures fast and efficient local storage. ✔️ Custom App Branding – Beautiful app icon, splash screen, and UI design. ✔️ Dynamic UI Updates – Powered by Flutter's state management. ✔️ GitHub Integration – Well-organized project with version control.
 
-🔧 Installation
-1️⃣ Run the app
-flutter run
 
 🖼️ Screenshots
 ![Splash Screen](https://github.com/user-attachments/assets/8f45c541-7460-4c4c-899a-b903d8f401ac)
