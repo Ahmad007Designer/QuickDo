@@ -7,6 +7,7 @@ QuickDo is a polished task management app, designed to help users efficiently ma
 
 🔧 Installation
 1️⃣ Run the app
+flutter run
 
 🖼️ Screenshots
 ![Splash Screen](https://github.com/user-attachments/assets/8f45c541-7460-4c4c-899a-b903d8f401ac)
